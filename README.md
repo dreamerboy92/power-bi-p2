@@ -64,9 +64,8 @@ State-wise sales performance is visualized on an interactive map.
 
 If you're passionate about **data analytics** or **Power BI dashboards**, feel free to connect!
 
-📧 Email: [YourEmail@example.com]  
-🌐 LinkedIn: [Your LinkedIn Profile]
-
+📧 Email: umeshshah9097@gmail.com  
+🌐 LinkedIn: https://www.linkedin.com/in/umesh-kumar-1157b1291/
 ---
 
 ## ⭐ Support
